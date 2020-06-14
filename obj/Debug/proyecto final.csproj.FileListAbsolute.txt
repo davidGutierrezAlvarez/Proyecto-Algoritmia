@@ -1,0 +1,11 @@
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.Cache
+C:\Users\David Gutierrez\Desktop\Proyecto final\bin\Debug\proyecto final.exe
+C:\Users\David Gutierrez\Desktop\Proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\proyecto final.exe
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\ProyectPreyPredator.MainForm.resources
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\ProyectPreyPredator.Remove.resources
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\ProyectPreyPredator.Status.resources
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\ProyectPreyPredator.Selection.resources
+C:\Users\David Gutierrez\Desktop\Proyecto final\obj\Debug\ProyectPreyPredator.Help.resources
